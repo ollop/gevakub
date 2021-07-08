@@ -7,3 +7,5 @@
 ## <a href="https://github.com/ollop/gevakub/blob/main/It’s%20Not%20Always%20Better%20When%20We’re%20Together">It’s Not Always Better When We’re Together: Effects of Being Accompanied in Virtual Reality</a>
 
 ## <a href="https://github.com/ollop/gevakub/blob/main/Notifications%20in%20VR">Notification in VR: The Effect of Notification Placement, Task, and Environment</a>
+
+## <a href="https://github.com/ollop/gevakub/blob/main/Reading%20in%20VR">Reading in VR: The Efect of Text Presentation Type and Location</a>
