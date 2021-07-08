@@ -1,0 +1,289 @@
+ParticipantID,Canvas,Task,TCT,Scene
+1,Floating,Gaming,7.18324794921875,Closed
+2,Floating,Gaming,5.727364929199219,Open
+3,Floating,Gaming,7.089135986328126,Semi-Open
+4,Floating,Gaming,6.418147998046874,Semi-Open
+5,Floating,Gaming,4.095405957031249,Closed
+6,Floating,Gaming,7.59847001953125,Closed
+7,Floating,Gaming,5.55365595703125,Open
+8,Floating,Gaming,4.770389990234376,Open
+9,Floating,Gaming,6.6601419921875005,Open
+10,Floating,Gaming,5.100539990234376,Semi-Open
+11,Floating,Gaming,6.99048798828125,Closed
+12,Floating,Gaming,3.4434679687500003,Semi-Open
+13,Floating,Gaming,5.621323974609375,Closed
+14,Floating,Gaming,3.2188640136718747,Open
+15,Floating,Gaming,3.317527978515625,Semi-Open
+16,Floating,Gaming,4.5576939941406245,Closed
+17,Floating,Gaming,8.736352600097657,Open
+18,Floating,Gaming,7.460143994140625,Closed
+19,Floating,Gaming,4.050768017578125,Semi-Open
+20,Floating,Gaming,6.811527978515625,Closed
+21,Floating,Gaming,10.29393193359375,Open
+22,Floating,Gaming,6.835477978515624,Semi-Open
+23,Floating,Gaming,5.5128900390625,Semi-Open
+24,Floating,Gaming,8.439972021484374,Open
+1,Floating,Learning,13.920458007812499,Closed
+2,Floating,Learning,11.844426025390625,Open
+3,Floating,Learning,8.42476796875,Semi-Open
+4,Floating,Learning,9.425804052734374,Semi-Open
+5,Floating,Learning,10.516768017578125,Closed
+6,Floating,Learning,13.262934033203127,Closed
+7,Floating,Learning,9.405095947265625,Open
+8,Floating,Learning,8.568172021484376,Open
+9,Floating,Learning,9.000884033203125,Open
+10,Floating,Learning,10.891753955078126,Semi-Open
+11,Floating,Learning,13.488024072265626,Closed
+12,Floating,Learning,9.354364013671875,Semi-Open
+13,Floating,Learning,10.843625927734376,Closed
+14,Floating,Learning,8.44792001953125,Open
+15,Floating,Learning,7.856372021484374,Semi-Open
+16,Floating,Learning,15.124506005859377,Closed
+17,Floating,Learning,14.2126359375,Open
+18,Floating,Learning,11.23155390625,Closed
+19,Floating,Learning,6.6140399902343745,Semi-Open
+20,Floating,Learning,12.576423974609375,Closed
+21,Floating,Learning,12.824577880859374,Open
+22,Floating,Learning,6.971945947265624,Semi-Open
+23,Floating,Learning,11.936405908203124,Semi-Open
+24,Floating,Learning,12.117680078125,Open
+1,Floating,ProblemSolving,5.2716240234375,Closed
+2,Floating,ProblemSolving,3.505514111328125,Open
+3,Floating,ProblemSolving,5.19048603515625,Semi-Open
+4,Floating,ProblemSolving,5.502415966796875,Semi-Open
+5,Floating,ProblemSolving,4.121378076171875,Closed
+6,Floating,ProblemSolving,6.331527978515625,Closed
+7,Floating,ProblemSolving,5.193718017578125,Open
+8,Floating,ProblemSolving,3.6770740234374997,Open
+9,Floating,ProblemSolving,6.432065966796875,Open
+10,Floating,ProblemSolving,6.5592139648437495,Semi-Open
+11,Floating,ProblemSolving,11.73037001953125,Closed
+12,Floating,ProblemSolving,7.886306005859375,Semi-Open
+13,Floating,ProblemSolving,3.6886240234374994,Closed
+14,Floating,ProblemSolving,3.0524450073242186,Open
+15,Floating,ProblemSolving,3.71897802734375,Semi-Open
+16,Floating,ProblemSolving,5.937064013671875,Closed
+17,Floating,ProblemSolving,10.678318017578125,Open
+18,Floating,ProblemSolving,6.480984033203126,Closed
+19,Floating,ProblemSolving,4.257723974609375,Semi-Open
+20,Floating,ProblemSolving,9.389046044921875,Closed
+21,Floating,ProblemSolving,3.0120240234374998,Open
+22,Floating,ProblemSolving,4.3037259765625,Semi-Open
+23,Floating,ProblemSolving,7.7639119140625,Semi-Open
+24,Floating,ProblemSolving,8.93983203125,Open
+1,Head-up Display,Gaming,7.675693994140625,Closed
+2,Head-up Display,Gaming,5.65240205078125,Open
+3,Head-up Display,Gaming,7.416120019531251,Semi-Open
+4,Head-up Display,Gaming,5.66602001953125,Semi-Open
+5,Head-up Display,Gaming,5.4716619140625,Closed
+6,Head-up Display,Gaming,6.761369970703124,Closed
+7,Head-up Display,Gaming,4.79841201171875,Open
+8,Head-up Display,Gaming,3.4404739746093744,Open
+9,Head-up Display,Gaming,5.98542392578125,Open
+10,Head-up Display,Gaming,5.456493994140624,Semi-Open
+11,Head-up Display,Gaming,6.457130078125,Closed
+12,Head-up Display,Gaming,4.5590339843750005,Semi-Open
+13,Head-up Display,Gaming,4.50792001953125,Closed
+14,Head-up Display,Gaming,2.8111880371093756,Open
+15,Head-up Display,Gaming,5.346480029296875,Semi-Open
+16,Head-up Display,Gaming,4.133930078125,Closed
+17,Head-up Display,Gaming,7.188924023437499,Open
+18,Head-up Display,Gaming,5.776212060546874,Closed
+19,Head-up Display,Gaming,5.414499999999999,Semi-Open
+20,Head-up Display,Gaming,6.7852240234375,Closed
+21,Head-up Display,Gaming,2.4512060058593748,Open
+22,Head-up Display,Gaming,5.406852001953125,Semi-Open
+23,Head-up Display,Gaming,6.092619970703126,Semi-Open
+24,Head-up Display,Gaming,6.275688037109376,Open
+1,Head-up Display,Learning,7.17400205078125,Closed
+2,Head-up Display,Learning,4.47232998046875,Open
+3,Head-up Display,Learning,4.5836,Semi-Open
+4,Head-up Display,Learning,3.468952001953125,Semi-Open
+5,Head-up Display,Learning,3.6125800292968746,Closed
+6,Head-up Display,Learning,8.59669990234375,Closed
+7,Head-up Display,Learning,4.12236806640625,Open
+8,Head-up Display,Learning,3.4527259765625,Open
+9,Head-up Display,Learning,7.024937988281249,Open
+10,Head-up Display,Learning,8.503832458496094,Semi-Open
+11,Head-up Display,Learning,8.734033984375,Closed
+12,Head-up Display,Learning,4.4815439453125,Semi-Open
+13,Head-up Display,Learning,4.888439990234375,Closed
+14,Head-up Display,Learning,4.530264013671875,Open
+15,Head-up Display,Learning,7.46758603515625,Semi-Open
+16,Head-up Display,Learning,3.91301201171875,Closed
+17,Head-up Display,Learning,5.9004580078125,Open
+18,Head-up Display,Learning,4.998904052734375,Closed
+19,Head-up Display,Learning,4.429671923828126,Semi-Open
+20,Head-up Display,Learning,9.766256005859375,Closed
+21,Head-up Display,Learning,3.9706320312499996,Open
+22,Head-up Display,Learning,3.92513203125,Semi-Open
+23,Head-up Display,Learning,7.224228076171874,Semi-Open
+24,Head-up Display,Learning,5.289695947265625,Open
+1,Head-up Display,ProblemSolving,6.10251591796875,Closed
+2,Head-up Display,ProblemSolving,5.44633408203125,Open
+3,Head-up Display,ProblemSolving,9.369523974609375,Semi-Open
+4,Head-up Display,ProblemSolving,3.6341860839843747,Semi-Open
+5,Head-up Display,ProblemSolving,4.13523203125,Closed
+6,Head-up Display,ProblemSolving,7.787701953125,Closed
+7,Head-up Display,ProblemSolving,3.8032339843750003,Open
+8,Head-up Display,ProblemSolving,3.4184260253906253,Open
+9,Head-up Display,ProblemSolving,5.128695996093751,Open
+10,Head-up Display,ProblemSolving,6.68348203125,Semi-Open
+11,Head-up Display,ProblemSolving,9.2072640625,Closed
+12,Head-up Display,ProblemSolving,3.8194640136718747,Semi-Open
+13,Head-up Display,ProblemSolving,6.318201904296875,Closed
+14,Head-up Display,ProblemSolving,3.239268017578125,Open
+15,Head-up Display,ProblemSolving,4.854343994140625,Semi-Open
+16,Head-up Display,ProblemSolving,2.8330759277343747,Closed
+17,Head-up Display,ProblemSolving,4.454371972656251,Open
+18,Head-up Display,ProblemSolving,5.247669970703125,Closed
+19,Head-up Display,ProblemSolving,4.08373798828125,Semi-Open
+20,Head-up Display,ProblemSolving,7.1877720703125,Closed
+21,Head-up Display,ProblemSolving,4.008812060546875,Open
+22,Head-up Display,ProblemSolving,3.06395400390625,Semi-Open
+23,Head-up Display,ProblemSolving,5.1669,Semi-Open
+24,Head-up Display,ProblemSolving,7.684221972656251,Open
+1,In-Situ,Gaming,7.752179980468751,Closed
+2,In-Situ,Gaming,9.0178,Open
+3,In-Situ,Gaming,5.81515595703125,Semi-Open
+4,In-Situ,Gaming,5.7043759765625,Semi-Open
+5,In-Situ,Gaming,4.098336083984375,Closed
+6,In-Situ,Gaming,5.532294042968751,Closed
+7,In-Situ,Gaming,7.574472021484375,Open
+8,In-Situ,Gaming,5.317390087890625,Open
+9,In-Situ,Gaming,7.199193994140626,Open
+10,In-Situ,Gaming,5.322483984375001,Semi-Open
+11,In-Situ,Gaming,10.434284033203125,Closed
+12,In-Situ,Gaming,9.194754052734375,Semi-Open
+13,In-Situ,Gaming,4.4849880371093755,Closed
+14,In-Situ,Gaming,3.9432060058593748,Open
+15,In-Situ,Gaming,5.686702001953125,Semi-Open
+16,In-Situ,Gaming,4.869125976562501,Closed
+17,In-Situ,Gaming,7.047210107421876,Open
+18,In-Situ,Gaming,7.4968240234375,Closed
+19,In-Situ,Gaming,4.7973439453125,Semi-Open
+20,In-Situ,Gaming,8.123876025390626,Closed
+21,In-Situ,Gaming,8.097237988281252,Open
+22,In-Situ,Gaming,7.960235937499999,Semi-Open
+23,In-Situ,Gaming,8.1728919921875,Semi-Open
+24,In-Situ,Gaming,7.6258639648437505,Open
+1,In-Situ,Learning,13.7752599609375,Closed
+2,In-Situ,Learning,10.992260009765625,Open
+3,In-Situ,Learning,9.93626201171875,Semi-Open
+4,In-Situ,Learning,13.868293896484374,Semi-Open
+5,In-Situ,Learning,13.895092041015625,Closed
+6,In-Situ,Learning,13.564831933593748,Closed
+7,In-Situ,Learning,12.4697419921875,Open
+8,In-Situ,Learning,11.41704794921875,Open
+9,In-Situ,Learning,9.39130791015625,Open
+10,In-Situ,Learning,12.835181982421876,Semi-Open
+11,In-Situ,Learning,4.3003680175781245,Closed
+12,In-Situ,Learning,15.142300048828124,Semi-Open
+13,In-Situ,Learning,10.139234033203127,Closed
+14,In-Situ,Learning,14.75297001953125,Open
+15,In-Situ,Learning,9.898698046875001,Semi-Open
+16,In-Situ,Learning,15.129130029296874,Closed
+17,In-Situ,Learning,13.326981982421875,Open
+18,In-Situ,Learning,9.95308203125,Closed
+19,In-Situ,Learning,10.21509794921875,Semi-Open
+20,In-Situ,Learning,14.167571972656251,Closed
+21,In-Situ,Learning,15.09827802734375,Open
+22,In-Situ,Learning,10.712452453613281,Semi-Open
+23,In-Situ,Learning,14.220289990234374,Semi-Open
+24,In-Situ,Learning,13.946371972656252,Open
+1,In-Situ,ProblemSolving,14.553607958984376,Closed
+2,In-Situ,ProblemSolving,11.123466015625,Open
+3,In-Situ,ProblemSolving,15.1496900390625,Semi-Open
+4,In-Situ,ProblemSolving,12.24961591796875,Semi-Open
+5,In-Situ,ProblemSolving,12.248929931640625,Closed
+6,In-Situ,ProblemSolving,13.283117968750002,Closed
+7,In-Situ,ProblemSolving,10.00012001953125,Open
+8,In-Situ,ProblemSolving,12.7297859375,Open
+9,In-Situ,ProblemSolving,12.857158007812501,Open
+10,In-Situ,ProblemSolving,12.005164013671873,Semi-Open
+11,In-Situ,ProblemSolving,4.392757958984374,Closed
+12,In-Situ,ProblemSolving,15.148613916015625,Semi-Open
+13,In-Situ,ProblemSolving,11.958514013671873,Closed
+14,In-Situ,ProblemSolving,11.013030029296875,Open
+15,In-Situ,ProblemSolving,11.931248046875002,Semi-Open
+16,In-Situ,ProblemSolving,13.777032031249998,Closed
+17,In-Situ,ProblemSolving,12.996095996093752,Open
+18,In-Situ,ProblemSolving,13.462993994140623,Closed
+19,In-Situ,ProblemSolving,8.046846044921875,Semi-Open
+20,In-Situ,ProblemSolving,15.10511591796875,Closed
+21,In-Situ,ProblemSolving,15.110166064453125,Open
+22,In-Situ,ProblemSolving,15.139077978515626,Semi-Open
+23,In-Situ,ProblemSolving,13.255622021484376,Semi-Open
+24,In-Situ,ProblemSolving,12.9814060546875,Open
+1,On-Body,Gaming,6.903610058593751,Closed
+2,On-Body,Gaming,5.87281005859375,Open
+3,On-Body,Gaming,8.446956054687499,Semi-Open
+4,On-Body,Gaming,6.412056005859375,Semi-Open
+5,On-Body,Gaming,9.712132446289063,Closed
+6,On-Body,Gaming,7.1084399414062505,Closed
+7,On-Body,Gaming,7.0087339843750005,Open
+8,On-Body,Gaming,4.2555419921875,Open
+9,On-Body,Gaming,7.37090400390625,Open
+10,On-Body,Gaming,6.515515966796874,Semi-Open
+11,On-Body,Gaming,8.679368017578124,Closed
+12,On-Body,Gaming,14.004158007812501,Semi-Open
+13,On-Body,Gaming,5.045363916015626,Closed
+14,On-Body,Gaming,3.5364280761718745,Open
+15,On-Body,Gaming,6.88869599609375,Semi-Open
+16,On-Body,Gaming,15.277941992187502,Closed
+17,On-Body,Gaming,7.858652001953127,Open
+18,On-Body,Gaming,8.786077929687501,Closed
+19,On-Body,Gaming,6.800539990234375,Semi-Open
+20,On-Body,Gaming,6.299756005859375,Closed
+21,On-Body,Gaming,15.121690087890624,Open
+22,On-Body,Gaming,3.6128619140625005,Semi-Open
+23,On-Body,Gaming,6.541228027343751,Semi-Open
+24,On-Body,Gaming,6.281112060546876,Open
+1,On-Body,Learning,14.732995996093749,Closed
+2,On-Body,Learning,7.316823974609375,Open
+3,On-Body,Learning,12.82837998046875,Semi-Open
+4,On-Body,Learning,10.706264013671875,Semi-Open
+5,On-Body,Learning,13.557864013671875,Closed
+6,On-Body,Learning,12.229943994140624,Closed
+7,On-Body,Learning,5.484497998046875,Open
+8,On-Body,Learning,8.38136396484375,Open
+9,On-Body,Learning,8.488883984375,Open
+10,On-Body,Learning,6.678677978515625,Semi-Open
+11,On-Body,Learning,10.67982001953125,Closed
+12,On-Body,Learning,15.145002001953126,Semi-Open
+13,On-Body,Learning,5.20324404296875,Closed
+14,On-Body,Learning,6.027865966796875,Open
+15,On-Body,Learning,5.5685679199218745,Semi-Open
+16,On-Body,Learning,15.112978027343749,Closed
+17,On-Body,Learning,14.405137988281249,Open
+18,On-Body,Learning,9.801972021484374,Closed
+19,On-Body,Learning,6.250581982421875,Semi-Open
+20,On-Body,Learning,12.588724975585937,Closed
+21,On-Body,Learning,11.926716015625,Open
+22,On-Body,Learning,15.12193408203125,Semi-Open
+23,On-Body,Learning,11.742966064453125,Semi-Open
+24,On-Body,Learning,8.69733388671875,Open
+1,On-Body,ProblemSolving,12.783234033203124,Closed
+2,On-Body,ProblemSolving,5.667828076171875,Open
+3,On-Body,ProblemSolving,7.7158080078125,Semi-Open
+4,On-Body,ProblemSolving,6.618467968750001,Semi-Open
+5,On-Body,ProblemSolving,3.788665966796875,Closed
+6,On-Body,ProblemSolving,7.494203955078125,Closed
+7,On-Body,ProblemSolving,5.80680595703125,Open
+8,On-Body,ProblemSolving,5.33955205078125,Open
+9,On-Body,ProblemSolving,9.893856005859375,Open
+10,On-Body,ProblemSolving,7.518352099609376,Semi-Open
+11,On-Body,ProblemSolving,7.772712011718751,Closed
+12,On-Body,ProblemSolving,13.448764013671877,Semi-Open
+13,On-Body,ProblemSolving,4.52707802734375,Closed
+14,On-Body,ProblemSolving,4.325256005859375,Open
+15,On-Body,ProblemSolving,4.878711962890625,Semi-Open
+16,On-Body,ProblemSolving,15.1234939453125,Closed
+17,On-Body,ProblemSolving,15.138099951171876,Open
+18,On-Body,ProblemSolving,7.4321299804687495,Closed
+19,On-Body,ProblemSolving,8.608968017578125,Semi-Open
+20,On-Body,ProblemSolving,7.3569719726562495,Closed
+21,On-Body,ProblemSolving,10.485017919921876,Open
+22,On-Body,ProblemSolving,3.5734280273437506,Semi-Open
+23,On-Body,ProblemSolving,7.580621923828124,Semi-Open
+24,On-Body,ProblemSolving,7.090029980468749,Open

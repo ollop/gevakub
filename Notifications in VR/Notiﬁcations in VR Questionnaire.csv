@@ -1,0 +1,97 @@
+Zeitstempel,PId,Scene,Canvas,Urgency,Intrusiveness,Noticability,Understandability
+27.09.2018 11:10:09,1,Closed,Floating,4,4,3,5
+27.09.2018 13:08:10,2,Open,Floating,6,6,5,5
+27.09.2018 15:55:28,3,Semi-Open,Floating,3,2,6,7
+27.09.2018 17:14:57,4,Semi-Open,Floating,1,3,6,7
+27.09.2018 18:38:10,5,Closed,Floating,3,2,6,5
+01.10.2018 10:29:50,6,Closed,Floating,4,5,4,3
+01.10.2018 12:05:59,7,Open,Floating,2,4,7,7
+01.10.2018 18:12:02,10,Semi-Open,Floating,6,6,7,7
+02.10.2018 10:29:05,8,Open,Floating,4,3,6,7
+02.10.2018 12:23:11,9,Open,Floating,6,2,6,6
+02.10.2018 14:57:59,11,Closed,Floating,2,5,5,5
+02.10.2018 17:09:02,12,Semi-Open,Floating,1,5,6,6
+04.10.2018 12:32:30,13,Closed,Floating,6,7,4,2
+04.10.2018 15:53:01,14,Open,Floating,4,2,7,6
+04.10.2018 17:12:24,15,Semi-Open,Floating,6,6,5,6
+04.10.2018 18:10:31,16,Closed,Floating,6,5,7,7
+04.10.2018 19:49:08,17,Open,Floating,4,4,7,7
+05.10.2018 10:19:57,18,Closed,Floating,3,4,5,6
+05.10.2018 13:38:15,19,Semi-Open,Floating,5,5,7,7
+05.10.2018 15:45:58,20,Closed,Floating,4,3,5,6
+05.10.2018 17:57:38,22,Semi-Open,Floating,3,3,6,7
+05.10.2018 20:18:46,23,Semi-Open,Floating,3,2,7,6
+07.10.2018 15:00:11,24,Open,Floating,6,2,7,7
+08.10.2018 10:55:33,21,Open,Floating,5,3,5,5
+27.09.2018 10:27:19,1,Closed,Head-up Display,3,3,5,5
+27.09.2018 12:23:09,2,Open,Head-up Display,6,6,7,6
+27.09.2018 15:10:42,3,Semi-Open,Head-up Display,2,5,7,6
+27.09.2018 17:00:20,4,Semi-Open,Head-up Display,5,7,7,7
+27.09.2018 18:24:11,5,Closed,Head-up Display,6,6,3,3
+01.10.2018 10:43:54,6,Closed,Head-up Display,7,7,7,2
+01.10.2018 12:19:10,7,Open,Head-up Display,2,7,7,7
+01.10.2018 18:25:16,10,Semi-Open,Head-up Display,6,7,7,7
+02.10.2018 11:19:26,8,Open,Head-up Display,7,7,7,2
+02.10.2018 12:08:30,8,Open,Head-up Display,7,6,7,7
+02.10.2018 16:02:02,11,Closed,Head-up Display,4,7,7,4
+02.10.2018 18:19:09,12,Semi-Open,Head-up Display,1,7,7,3
+04.10.2018 11:48:01,13,Closed,Head-up Display,3,4,6,5
+04.10.2018 15:11:39,14,Open,Head-up Display,1,4,4,2
+04.10.2018 16:30:28,15,Semi-Open,Head-up Display,6,6,6,3
+04.10.2018 18:22:30,16,Closed,Head-up Display,7,7,7,7
+04.10.2018 20:04:50,17,Open,Head-up Display,5,2,7,7
+05.10.2018 11:03:31,18,Closed,Head-up Display,5,6,7,7
+05.10.2018 13:52:57,19,Semi-Open,Head-up Display,7,5,7,2
+05.10.2018 15:29:17,20,Closed,Head-up Display,6,6,7,6
+05.10.2018 18:45:15,22,Semi-Open,Head-up Display,6,7,7,4
+05.10.2018 19:57:41,23,Semi-Open,Head-up Display,2,7,7,4
+07.10.2018 15:52:56,24,Open,Head-up Display,7,4,7,5
+08.10.2018 10:42:09,21,Open,Head-up Display,7,6,7,2
+27.09.2018 10:55:55,1,Closed,In-Situ,5,5,3,2
+27.09.2018 12:52:48,2,Open,In-Situ,1,6,2,2
+27.09.2018 15:42:13,3,Semi-Open,In-Situ,2,5,2,7
+27.09.2018 16:44:12,4,Semi-Open,In-Situ,1,2,6,7
+27.09.2018 18:09:43,5,Closed,In-Situ,4,2,6,5
+01.10.2018 10:58:25,6,Closed,In-Situ,1,2,2,2
+01.10.2018 12:46:40,7,Open,In-Situ,1,1,2,3
+01.10.2018 18:39:33,10,Semi-Open,In-Situ,2,1,3,2
+02.10.2018 10:52:22,8,Open,In-Situ,2,5,3,2
+02.10.2018 11:51:28,9,Open,In-Situ,1,1,6,5
+02.10.2018 15:14:20,11,Closed,In-Situ,4,7,7,1
+02.10.2018 17:33:58,12,Semi-Open,In-Situ,1,4,2,2
+04.10.2018 12:17:51,13,Closed,In-Situ,7,7,1,1
+04.10.2018 15:39:46,14,Open,In-Situ,5,6,3,1
+04.10.2018 16:57:51,15,Semi-Open,In-Situ,2,5,4,3
+04.10.2018 18:35:13,16,Closed,In-Situ,2,2,5,6
+04.10.2018 20:19:38,17,Open,In-Situ,5,3,7,7
+05.10.2018 10:34:30,18,Closed,In-Situ,5,3,2,7
+05.10.2018 14:06:15,19,Semi-Open,In-Situ,1,1,3,2
+05.10.2018 15:10:59,20,Closed,In-Situ,2,2,4,3
+05.10.2018 18:13:08,22,Semi-Open,In-Situ,5,1,2,4
+05.10.2018 19:40:32,23,Semi-Open,In-Situ,3,4,4,7
+07.10.2018 15:17:43,24,Open,In-Situ,6,2,5,6
+08.10.2018 10:28:46,21,Open,In-Situ,1,2,4,1
+27.09.2018 10:41:41,1,Closed,On-Body,3,4,6,6
+27.09.2018 12:37:54,2,Open,On-Body,3,2,3,7
+27.09.2018 15:26:24,3,Semi-Open,On-Body,3,2,3,7
+27.09.2018 17:29:07,4,Semi-Open,On-Body,3,3,7,7
+27.09.2018 18:51:08,5,Closed,On-Body,3,1,4,7
+01.10.2018 10:15:06,6,Closed,On-Body,5,2,5,4
+01.10.2018 11:51:27,7,Open,On-Body,4,5,6,7
+01.10.2018 17:58:10,10,Semi-Open,On-Body,2,1,4,6
+02.10.2018 11:06:05,8,Open,On-Body,7,6,3,7
+02.10.2018 12:38:10,9,Open,On-Body,2,6,6,7
+02.10.2018 15:38:17,11,Closed,On-Body,3,5,6,7
+02.10.2018 17:50:00,12,Semi-Open,On-Body,1,6,7,3
+04.10.2018 12:03:53,13,Closed,On-Body,3,1,7,7
+04.10.2018 15:25:43,14,Open,On-Body,5,4,4,6
+04.10.2018 16:43:46,15,Semi-Open,On-Body,4,2,6,6
+04.10.2018 17:57:40,16,Closed,On-Body,5,5,4,6
+04.10.2018 19:33:45,17,Open,On-Body,2,4,7,7
+05.10.2018 10:49:06,18,Closed,On-Body,5,1,7,7
+05.10.2018 13:24:05,19,Semi-Open,On-Body,2,1,4,2
+05.10.2018 16:02:58,20,Closed,On-Body,5,2,4,7
+05.10.2018 18:27:34,22,Semi-Open,On-Body,5,1,1,3
+05.10.2018 20:37:31,23,Semi-Open,On-Body,3,1,6,7
+07.10.2018 15:35:46,24,Open,On-Body,5,2,7,7
+08.10.2018 11:07:27,21,Open,On-Body,2,2,2,2

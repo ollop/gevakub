@@ -1,0 +1,97 @@
+PId,Scene,Canvas,NotMissingNotifications,ProvidingWantedInformation,DisturbingVRExperience,ComfortAlone,ComfortWithOthers
+1,Closed,Head-up Display,5,4,4,4,3
+1,Closed,On-Body,4,4,2,4,3
+1,Closed,In-Situ,1,2,4,2,1
+1,Closed,Floating,4,4,4,3,2
+2,Open,Head-up Display,4,3,4,4,2
+2,Open,On-Body,2,4,2,4,2
+2,Open,In-Situ,1,4,5,1,1
+2,Open,Floating,1,4,2,4,1
+3,Spaceship,Head-up Display,5,2,5,4,1
+3,Spaceship,On-Body,4,2,4,4,2
+3,Spaceship,In-Situ,5,2,5,1,1
+3,Spaceship,Floating,4,2,2,5,2
+4,Spaceship,In-Situ,3,1,1,4,4
+4,Spaceship,Head-up Display,5,5,5,3,3
+4,Spaceship,Floating,4,4,4,4,4
+4,Spaceship,On-Body,3,4,1,5,5
+5,Closed,In-Situ,4,4,3,5,3
+5,Closed,Head-up Display,5,2,4,1,2
+5,Closed,Floating,5,4,3,4,3
+5,Closed,On-Body,2,4,2,4,4
+6,Closed,On-Body,5,5,2,1,5
+6,Closed,Floating,2,4,4,4,4
+6,Closed,Head-up Display,4,2,5,1,1
+6,Closed,In-Situ,1,2,2,3,1
+7,Open,On-Body,4,3,4,5,5
+7,Open,Floating,3,2,4,4,4
+7,Open,Head-up Display,5,2,5,4,3
+7,Open,In-Situ,1,2,2,3,4
+8,Open,Floating,3,4,2,5,4
+8,Open,In-Situ,2,3,4,4,4
+8,Open,On-Body,2,5,4,2,4
+8,Open,Head-up Display,4,4,5,2,3
+9,Open,In-Situ,4,3,2,5,1
+9,Open,Head-up Display,5,2,4,2,5
+9,Open,Floating,4,4,3,4,1
+9,Open,On-Body,3,3,4,4,4
+10,Spaceship,On-Body,3,4,2,5,2
+10,Spaceship,Floating,4,4,5,1,2
+10,Spaceship,Head-up Display,5,4,4,2,1
+10,Spaceship,In-Situ,2,2,1,2,4
+11,Closed,Floating,2,3,5,3,1
+11,Closed,In-Situ,1,1,5,1,1
+11,Closed,On-Body,4,3,4,4,3
+11,Closed,Head-up Display,5,3,5,1,1
+12,Spaceship,Floating,4,2,4,3,3
+12,Spaceship,In-Situ,2,3,2,3,3
+12,Spaceship,On-Body,4,1,5,1,1
+12,Spaceship,Head-up Display,5,1,5,1,1
+13,Closed,Head-up Display,5,3,1,5,2
+13,Closed,On-Body,5,5,1,5,5
+13,Closed,In-Situ,1,1,5,1,1
+13,Closed,Floating,1,1,5,1,1
+14,Open,Head-up Display,1,2,5,2,3
+14,Open,On-Body,2,4,5,1,3
+14,Open,In-Situ,1,2,5,1,3
+14,Open,Floating,3,4,2,2,3
+15,Spaceship,Head-up Display,5,3,4,4,3
+15,Spaceship,On-Body,5,5,2,5,5
+15,Spaceship,In-Situ,1,4,3,3,3
+15,Spaceship,Floating,4,4,4,3,3
+16,Closed,On-Body,4,3,4,3,3
+16,Closed,Floating,5,2,4,4,4
+16,Closed,Head-up Display,5,3,4,3,3
+16,Closed,In-Situ,2,2,2,3,3
+17,Open,On-Body,2,5,1,1,5
+17,Open,Floating,4,4,2,5,5
+17,Open,Head-up Display,5,5,1,2,5
+17,Open,In-Situ,4,5,4,2,5
+18,Closed,Floating,3,4,3,4,2
+18,Closed,In-Situ,2,3,2,4,2
+18,Closed,On-Body,4,4,1,4,2
+18,Closed,Head-up Display,5,3,4,3,2
+19,Spaceship,On-Body,1,5,2,1,1
+19,Spaceship,Floating,4,5,3,4,3
+19,Spaceship,Head-up Display,5,5,4,4,2
+19,Spaceship,In-Situ,1,5,1,1,1
+20,Closed,In-Situ,2,5,2,5,5
+20,Closed,Head-up Display,5,4,4,2,2
+20,Closed,Floating,4,4,3,4,4
+20,Closed,On-Body,2,4,4,3,3
+21,Open,In-Situ,1,2,4,3,1
+21,Open,Head-up Display,5,4,5,5,5
+21,Open,Floating,3,3,4,3,2
+21,Open,On-Body,2,2,3,3,2
+22,Spaceship,Floating,5,4,2,5,2
+22,Spaceship,In-Situ,5,5,2,5,3
+22,Spaceship,On-Body,1,4,1,1,1
+22,Spaceship,Head-up Display,5,5,5,1,1
+23,Spaceship,In-Situ,4,1,2,4,2
+23,Spaceship,Head-up Display,2,2,5,1,1
+23,Spaceship,Floating,4,3,2,5,2
+23,Spaceship,On-Body,4,5,1,5,3
+24,Open,Floating,5,4,2,5,4
+24,Open,In-Situ,3,3,2,4,4
+24,Open,On-Body,5,5,1,5,5
+24,Open,Head-up Display,5,4,3,3,3

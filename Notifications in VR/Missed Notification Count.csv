@@ -1,0 +1,289 @@
+ParticipantID,Canvas,Task,Scene,Missed
+1,Floating,Gaming,Closed,0
+1,Floating,Learning,Closed,3
+1,Floating,ProblemSolving,Closed,0
+1,Head-up Display,Gaming,Closed,0
+1,Head-up Display,Learning,Closed,0
+1,Head-up Display,ProblemSolving,Closed,0
+1,In-Situ,Gaming,Closed,0
+1,In-Situ,Learning,Closed,3
+1,In-Situ,ProblemSolving,Closed,4
+1,On-Body,Gaming,Closed,0
+1,On-Body,Learning,Closed,4
+1,On-Body,ProblemSolving,Closed,2
+2,Floating,Gaming,Open,0
+2,Floating,Learning,Open,3
+2,Floating,ProblemSolving,Open,0
+2,Head-up Display,Gaming,Open,0
+2,Head-up Display,Learning,Open,0
+2,Head-up Display,ProblemSolving,Open,0
+2,In-Situ,Gaming,Open,0
+2,In-Situ,Learning,Open,0
+2,In-Situ,ProblemSolving,Open,0
+2,On-Body,Gaming,Open,0
+2,On-Body,Learning,Open,1
+2,On-Body,ProblemSolving,Open,0
+3,Floating,Gaming,Semi-Open,1
+3,Floating,Learning,Semi-Open,2
+3,Floating,ProblemSolving,Semi-Open,0
+3,Head-up Display,Gaming,Semi-Open,0
+3,Head-up Display,Learning,Semi-Open,0
+3,Head-up Display,ProblemSolving,Semi-Open,0
+3,In-Situ,Gaming,Semi-Open,0
+3,In-Situ,Learning,Semi-Open,0
+3,In-Situ,ProblemSolving,Semi-Open,5
+3,On-Body,Gaming,Semi-Open,0
+3,On-Body,Learning,Semi-Open,3
+3,On-Body,ProblemSolving,Semi-Open,1
+4,Floating,Gaming,Semi-Open,0
+4,Floating,Learning,Semi-Open,2
+4,Floating,ProblemSolving,Semi-Open,0
+4,Head-up Display,Gaming,Semi-Open,0
+4,Head-up Display,Learning,Semi-Open,0
+4,Head-up Display,ProblemSolving,Semi-Open,0
+4,In-Situ,Gaming,Semi-Open,0
+4,In-Situ,Learning,Semi-Open,4
+4,In-Situ,ProblemSolving,Semi-Open,3
+4,On-Body,Gaming,Semi-Open,0
+4,On-Body,Learning,Semi-Open,1
+4,On-Body,ProblemSolving,Semi-Open,0
+5,Floating,Gaming,Closed,0
+5,Floating,Learning,Closed,3
+5,Floating,ProblemSolving,Closed,0
+5,Head-up Display,Gaming,Closed,0
+5,Head-up Display,Learning,Closed,0
+5,Head-up Display,ProblemSolving,Closed,0
+5,In-Situ,Gaming,Closed,0
+5,In-Situ,Learning,Closed,4
+5,In-Situ,ProblemSolving,Closed,3
+5,On-Body,Gaming,Closed,0
+5,On-Body,Learning,Closed,3
+5,On-Body,ProblemSolving,Closed,0
+6,Floating,Gaming,Closed,0
+6,Floating,Learning,Closed,2
+6,Floating,ProblemSolving,Closed,0
+6,Head-up Display,Gaming,Closed,0
+6,Head-up Display,Learning,Closed,0
+6,Head-up Display,ProblemSolving,Closed,0
+6,In-Situ,Gaming,Closed,0
+6,In-Situ,Learning,Closed,4
+6,In-Situ,ProblemSolving,Closed,2
+6,On-Body,Gaming,Closed,0
+6,On-Body,Learning,Closed,3
+6,On-Body,ProblemSolving,Closed,0
+7,Floating,Gaming,Open,0
+7,Floating,Learning,Open,2
+7,Floating,ProblemSolving,Open,0
+7,Head-up Display,Gaming,Open,0
+7,Head-up Display,Learning,Open,0
+7,Head-up Display,ProblemSolving,Open,0
+7,In-Situ,Gaming,Open,1
+7,In-Situ,Learning,Open,3
+7,In-Situ,ProblemSolving,Open,1
+7,On-Body,Gaming,Open,0
+7,On-Body,Learning,Open,0
+7,On-Body,ProblemSolving,Open,0
+8,Floating,Gaming,Open,0
+8,Floating,Learning,Open,2
+8,Floating,ProblemSolving,Open,0
+8,Head-up Display,Gaming,Open,0
+8,Head-up Display,Learning,Open,0
+8,Head-up Display,ProblemSolving,Open,0
+8,In-Situ,Gaming,Open,0
+8,In-Situ,Learning,Open,2
+8,In-Situ,ProblemSolving,Open,3
+8,On-Body,Gaming,Open,0
+8,On-Body,Learning,Open,1
+8,On-Body,ProblemSolving,Open,0
+9,Floating,Gaming,Open,0
+9,Floating,Learning,Open,2
+9,Floating,ProblemSolving,Open,0
+9,Head-up Display,Gaming,Open,0
+9,Head-up Display,Learning,Open,0
+9,Head-up Display,ProblemSolving,Open,0
+9,In-Situ,Gaming,Open,0
+9,In-Situ,Learning,Open,2
+9,In-Situ,ProblemSolving,Open,3
+9,On-Body,Gaming,Open,0
+9,On-Body,Learning,Open,0
+9,On-Body,ProblemSolving,Open,0
+10,Floating,Gaming,Semi-Open,0
+10,Floating,Learning,Semi-Open,3
+10,Floating,ProblemSolving,Semi-Open,1
+10,Head-up Display,Gaming,Semi-Open,0
+10,Head-up Display,Learning,Semi-Open,0
+10,Head-up Display,ProblemSolving,Semi-Open,0
+10,In-Situ,Gaming,Semi-Open,0
+10,In-Situ,Learning,Semi-Open,2
+10,In-Situ,ProblemSolving,Semi-Open,3
+10,On-Body,Gaming,Semi-Open,0
+10,On-Body,Learning,Semi-Open,0
+10,On-Body,ProblemSolving,Semi-Open,1
+11,Floating,Gaming,Closed,0
+11,Floating,Learning,Closed,4
+11,Floating,ProblemSolving,Closed,3
+11,Head-up Display,Gaming,Closed,0
+11,Head-up Display,Learning,Closed,1
+11,Head-up Display,ProblemSolving,Closed,0
+11,In-Situ,Gaming,Closed,1
+11,In-Situ,Learning,Closed,0
+11,In-Situ,ProblemSolving,Closed,0
+11,On-Body,Gaming,Closed,1
+11,On-Body,Learning,Closed,1
+11,On-Body,ProblemSolving,Closed,0
+12,Floating,Gaming,Semi-Open,0
+12,Floating,Learning,Semi-Open,2
+12,Floating,ProblemSolving,Semi-Open,1
+12,Head-up Display,Gaming,Semi-Open,0
+12,Head-up Display,Learning,Semi-Open,0
+12,Head-up Display,ProblemSolving,Semi-Open,0
+12,In-Situ,Gaming,Semi-Open,1
+12,In-Situ,Learning,Semi-Open,5
+12,In-Situ,ProblemSolving,Semi-Open,5
+12,On-Body,Gaming,Semi-Open,4
+12,On-Body,Learning,Semi-Open,5
+12,On-Body,ProblemSolving,Semi-Open,4
+13,Floating,Gaming,Closed,0
+13,Floating,Learning,Closed,2
+13,Floating,ProblemSolving,Closed,0
+13,Head-up Display,Gaming,Closed,0
+13,Head-up Display,Learning,Closed,0
+13,Head-up Display,ProblemSolving,Closed,0
+13,In-Situ,Gaming,Closed,0
+13,In-Situ,Learning,Closed,1
+13,In-Situ,ProblemSolving,Closed,3
+13,On-Body,Gaming,Closed,0
+13,On-Body,Learning,Closed,0
+13,On-Body,ProblemSolving,Closed,0
+14,Floating,Gaming,Open,0
+14,Floating,Learning,Open,2
+14,Floating,ProblemSolving,Open,0
+14,Head-up Display,Gaming,Open,0
+14,Head-up Display,Learning,Open,0
+14,Head-up Display,ProblemSolving,Open,0
+14,In-Situ,Gaming,Open,0
+14,In-Situ,Learning,Open,4
+14,In-Situ,ProblemSolving,Open,3
+14,On-Body,Gaming,Open,0
+14,On-Body,Learning,Open,1
+14,On-Body,ProblemSolving,Open,0
+15,Floating,Gaming,Semi-Open,0
+15,Floating,Learning,Semi-Open,2
+15,Floating,ProblemSolving,Semi-Open,0
+15,Head-up Display,Gaming,Semi-Open,0
+15,Head-up Display,Learning,Semi-Open,1
+15,Head-up Display,ProblemSolving,Semi-Open,0
+15,In-Situ,Gaming,Semi-Open,0
+15,In-Situ,Learning,Semi-Open,2
+15,In-Situ,ProblemSolving,Semi-Open,2
+15,On-Body,Gaming,Semi-Open,0
+15,On-Body,Learning,Semi-Open,0
+15,On-Body,ProblemSolving,Semi-Open,0
+16,Floating,Gaming,Closed,0
+16,Floating,Learning,Closed,5
+16,Floating,ProblemSolving,Closed,1
+16,Head-up Display,Gaming,Closed,0
+16,Head-up Display,Learning,Closed,0
+16,Head-up Display,ProblemSolving,Closed,0
+16,In-Situ,Gaming,Closed,0
+16,In-Situ,Learning,Closed,5
+16,In-Situ,ProblemSolving,Closed,0
+16,On-Body,Gaming,Closed,5
+16,On-Body,Learning,Closed,5
+16,On-Body,ProblemSolving,Closed,5
+17,Floating,Gaming,Open,1
+17,Floating,Learning,Open,4
+17,Floating,ProblemSolving,Open,0
+17,Head-up Display,Gaming,Open,0
+17,Head-up Display,Learning,Open,0
+17,Head-up Display,ProblemSolving,Open,0
+17,In-Situ,Gaming,Open,0
+17,In-Situ,Learning,Open,3
+17,In-Situ,ProblemSolving,Open,4
+17,On-Body,Gaming,Open,0
+17,On-Body,Learning,Open,4
+17,On-Body,ProblemSolving,Open,5
+18,Floating,Gaming,Closed,1
+18,Floating,Learning,Closed,2
+18,Floating,ProblemSolving,Closed,0
+18,Head-up Display,Gaming,Closed,0
+18,Head-up Display,Learning,Closed,0
+18,Head-up Display,ProblemSolving,Closed,0
+18,In-Situ,Gaming,Closed,0
+18,In-Situ,Learning,Closed,2
+18,In-Situ,ProblemSolving,Closed,4
+18,On-Body,Gaming,Closed,1
+18,On-Body,Learning,Closed,0
+18,On-Body,ProblemSolving,Closed,0
+19,Floating,Gaming,Semi-Open,0
+19,Floating,Learning,Semi-Open,1
+19,Floating,ProblemSolving,Semi-Open,0
+19,Head-up Display,Gaming,Semi-Open,0
+19,Head-up Display,Learning,Semi-Open,0
+19,Head-up Display,ProblemSolving,Semi-Open,0
+19,In-Situ,Gaming,Semi-Open,0
+19,In-Situ,Learning,Semi-Open,1
+19,In-Situ,ProblemSolving,Semi-Open,1
+19,On-Body,Gaming,Semi-Open,0
+19,On-Body,Learning,Semi-Open,0
+19,On-Body,ProblemSolving,Semi-Open,2
+20,Floating,Gaming,Closed,0
+20,Floating,Learning,Closed,4
+20,Floating,ProblemSolving,Closed,1
+20,Head-up Display,Gaming,Closed,0
+20,Head-up Display,Learning,Closed,0
+20,Head-up Display,ProblemSolving,Closed,0
+20,In-Situ,Gaming,Closed,1
+20,In-Situ,Learning,Closed,4
+20,In-Situ,ProblemSolving,Closed,5
+20,On-Body,Gaming,Closed,0
+20,On-Body,Learning,Closed,3
+20,On-Body,ProblemSolving,Closed,0
+21,Floating,Gaming,Open,2
+21,Floating,Learning,Open,3
+21,Floating,ProblemSolving,Open,0
+21,Head-up Display,Gaming,Open,0
+21,Head-up Display,Learning,Open,0
+21,Head-up Display,ProblemSolving,Open,0
+21,In-Situ,Gaming,Open,0
+21,In-Situ,Learning,Open,5
+21,In-Situ,ProblemSolving,Open,5
+21,On-Body,Gaming,Open,5
+21,On-Body,Learning,Open,3
+21,On-Body,ProblemSolving,Open,3
+22,Floating,Gaming,Semi-Open,1
+22,Floating,Learning,Semi-Open,1
+22,Floating,ProblemSolving,Semi-Open,0
+22,Head-up Display,Gaming,Semi-Open,0
+22,Head-up Display,Learning,Semi-Open,0
+22,Head-up Display,ProblemSolving,Semi-Open,0
+22,In-Situ,Gaming,Semi-Open,1
+22,In-Situ,Learning,Semi-Open,2
+22,In-Situ,ProblemSolving,Semi-Open,5
+22,On-Body,Gaming,Semi-Open,0
+22,On-Body,Learning,Semi-Open,5
+22,On-Body,ProblemSolving,Semi-Open,0
+23,Floating,Gaming,Semi-Open,0
+23,Floating,Learning,Semi-Open,2
+23,Floating,ProblemSolving,Semi-Open,1
+23,Head-up Display,Gaming,Semi-Open,0
+23,Head-up Display,Learning,Semi-Open,0
+23,Head-up Display,ProblemSolving,Semi-Open,0
+23,In-Situ,Gaming,Semi-Open,1
+23,In-Situ,Learning,Semi-Open,4
+23,In-Situ,ProblemSolving,Semi-Open,4
+23,On-Body,Gaming,Semi-Open,0
+23,On-Body,Learning,Semi-Open,3
+23,On-Body,ProblemSolving,Semi-Open,0
+24,Floating,Gaming,Open,0
+24,Floating,Learning,Open,3
+24,Floating,ProblemSolving,Open,1
+24,Head-up Display,Gaming,Open,0
+24,Head-up Display,Learning,Open,0
+24,Head-up Display,ProblemSolving,Open,1
+24,In-Situ,Gaming,Open,0
+24,In-Situ,Learning,Open,3
+24,In-Situ,ProblemSolving,Open,3
+24,On-Body,Gaming,Open,0
+24,On-Body,Learning,Open,1
+24,On-Body,ProblemSolving,Open,0

@@ -1,0 +1,289 @@
+ParticipantID,Canvas,Task,Scene,Distance
+1,Floating,Gaming,Closed,9.161875326
+1,Floating,Learning,Closed,18.95018638
+1,Floating,ProblemSolving,Closed,4.584872737
+2,Floating,Gaming,Open,22.55818991
+2,Floating,Learning,Open,29.62874272
+2,Floating,ProblemSolving,Open,4.445252304
+3,Floating,Gaming,Semi-Open,34.19292748
+3,Floating,Learning,Semi-Open,29.13152093
+3,Floating,ProblemSolving,Semi-Open,9.207729203
+4,Floating,Gaming,Semi-Open,40.2653037
+4,Floating,Learning,Semi-Open,27.95369637
+4,Floating,ProblemSolving,Semi-Open,10.56911964
+5,Floating,Gaming,Closed,24.79590855
+5,Floating,Learning,Closed,25.69417688
+5,Floating,ProblemSolving,Closed,20.41477322
+6,Floating,Gaming,Closed,28.6927088
+6,Floating,Learning,Closed,36.55370728
+6,Floating,ProblemSolving,Closed,11.69038232
+7,Floating,Gaming,Open,32.5134351
+7,Floating,Learning,Open,12.59461183
+7,Floating,ProblemSolving,Open,2.154353109
+8,Floating,Gaming,Open,25.9806723
+8,Floating,Learning,Open,21.24356875
+8,Floating,ProblemSolving,Open,15.32431347
+9,Floating,Gaming,Open,24.18466695
+9,Floating,Learning,Open,4.828269797
+9,Floating,ProblemSolving,Open,5.703788898
+10,Floating,Gaming,Semi-Open,57.28349652
+10,Floating,Learning,Semi-Open,21.7998031
+10,Floating,ProblemSolving,Semi-Open,10.3629964
+11,Floating,Gaming,Closed,45.66785389
+11,Floating,Learning,Closed,13.71067686
+11,Floating,ProblemSolving,Closed,1.368558437
+12,Floating,Gaming,Semi-Open,6.584060794
+12,Floating,Learning,Semi-Open,9.520394295
+12,Floating,ProblemSolving,Semi-Open,4.861149208
+13,Floating,Gaming,Closed,20.43282409
+13,Floating,Learning,Closed,10.89453093
+13,Floating,ProblemSolving,Closed,4.324943291
+14,Floating,Gaming,Open,13.86088866
+14,Floating,Learning,Open,24.60503322
+14,Floating,ProblemSolving,Open,1.58430914
+15,Floating,Gaming,Semi-Open,24.83163177
+15,Floating,Learning,Semi-Open,14.26827108
+15,Floating,ProblemSolving,Semi-Open,9.877845028
+16,Floating,Gaming,Closed,18.21375316
+16,Floating,Learning,Closed,24.69567467
+16,Floating,ProblemSolving,Closed,18.21884089
+17,Floating,Gaming,Open,26.60951175
+17,Floating,Learning,Open,5.786495581
+17,Floating,ProblemSolving,Open,16.8691047
+18,Floating,Gaming,Closed,24.99785023
+18,Floating,Learning,Closed,8.948558625
+18,Floating,ProblemSolving,Closed,5.207727947
+19,Floating,Gaming,Semi-Open,21.51234618
+19,Floating,Learning,Semi-Open,25.72457852
+19,Floating,ProblemSolving,Semi-Open,10.13034521
+20,Floating,Gaming,Closed,25.62890946
+20,Floating,Learning,Closed,23.6653123
+20,Floating,ProblemSolving,Closed,6.127873433
+21,Floating,Gaming,Open,33.15570176
+21,Floating,Learning,Open,91.08108618
+21,Floating,ProblemSolving,Open,15.52074498
+22,Floating,Gaming,Semi-Open,41.05482299
+22,Floating,Learning,Semi-Open,6.321256293
+22,Floating,ProblemSolving,Semi-Open,6.979358633
+23,Floating,Gaming,Semi-Open,50.30315893
+23,Floating,Learning,Semi-Open,14.42834546
+23,Floating,ProblemSolving,Semi-Open,8.055699852
+24,Floating,Gaming,Open,17.01352274
+24,Floating,Learning,Open,18.10506269
+24,Floating,ProblemSolving,Open,5.820690624
+1,Head-up Display,Gaming,Closed,0
+1,Head-up Display,Learning,Closed,0
+1,Head-up Display,ProblemSolving,Closed,0
+2,Head-up Display,Gaming,Open,0
+2,Head-up Display,Learning,Open,0
+2,Head-up Display,ProblemSolving,Open,0
+3,Head-up Display,Gaming,Semi-Open,0
+3,Head-up Display,Learning,Semi-Open,0
+3,Head-up Display,ProblemSolving,Semi-Open,0
+4,Head-up Display,Gaming,Semi-Open,0
+4,Head-up Display,Learning,Semi-Open,0
+4,Head-up Display,ProblemSolving,Semi-Open,0
+5,Head-up Display,Gaming,Closed,0
+5,Head-up Display,Learning,Closed,0
+5,Head-up Display,ProblemSolving,Closed,0
+6,Head-up Display,Gaming,Closed,0
+6,Head-up Display,Learning,Closed,0
+6,Head-up Display,ProblemSolving,Closed,0
+7,Head-up Display,Gaming,Open,0
+7,Head-up Display,Learning,Open,0
+7,Head-up Display,ProblemSolving,Open,0
+8,Head-up Display,Gaming,Open,0
+8,Head-up Display,Learning,Open,0
+8,Head-up Display,ProblemSolving,Open,0
+9,Head-up Display,Gaming,Open,0
+9,Head-up Display,Learning,Open,0
+9,Head-up Display,ProblemSolving,Open,0
+10,Head-up Display,Gaming,Semi-Open,0
+10,Head-up Display,Learning,Semi-Open,0
+10,Head-up Display,ProblemSolving,Semi-Open,0
+11,Head-up Display,Gaming,Closed,0
+11,Head-up Display,Learning,Closed,0
+11,Head-up Display,ProblemSolving,Closed,0
+12,Head-up Display,Gaming,Semi-Open,0
+12,Head-up Display,Learning,Semi-Open,0
+12,Head-up Display,ProblemSolving,Semi-Open,0
+13,Head-up Display,Gaming,Closed,0
+13,Head-up Display,Learning,Closed,0
+13,Head-up Display,ProblemSolving,Closed,0
+14,Head-up Display,Gaming,Open,0
+14,Head-up Display,Learning,Open,0
+14,Head-up Display,ProblemSolving,Open,0
+15,Head-up Display,Gaming,Semi-Open,0
+15,Head-up Display,Learning,Semi-Open,0
+15,Head-up Display,ProblemSolving,Semi-Open,0
+16,Head-up Display,Gaming,Closed,0
+16,Head-up Display,Learning,Closed,0
+16,Head-up Display,ProblemSolving,Closed,0
+17,Head-up Display,Gaming,Open,0
+17,Head-up Display,Learning,Open,0
+17,Head-up Display,ProblemSolving,Open,0
+18,Head-up Display,Gaming,Closed,0
+18,Head-up Display,Learning,Closed,0
+18,Head-up Display,ProblemSolving,Closed,0
+19,Head-up Display,Gaming,Semi-Open,0
+19,Head-up Display,Learning,Semi-Open,0
+19,Head-up Display,ProblemSolving,Semi-Open,0
+20,Head-up Display,Gaming,Closed,0
+20,Head-up Display,Learning,Closed,0
+20,Head-up Display,ProblemSolving,Closed,0
+21,Head-up Display,Gaming,Open,0
+21,Head-up Display,Learning,Open,0
+21,Head-up Display,ProblemSolving,Open,0
+22,Head-up Display,Gaming,Semi-Open,0
+22,Head-up Display,Learning,Semi-Open,0
+22,Head-up Display,ProblemSolving,Semi-Open,0
+23,Head-up Display,Gaming,Semi-Open,0
+23,Head-up Display,Learning,Semi-Open,0
+23,Head-up Display,ProblemSolving,Semi-Open,0
+24,Head-up Display,Gaming,Open,0
+24,Head-up Display,Learning,Open,0
+24,Head-up Display,ProblemSolving,Open,0
+1,In-Situ,Gaming,Closed,104.4266029
+1,In-Situ,Learning,Closed,167.978144
+1,In-Situ,ProblemSolving,Closed,100.3207909
+2,In-Situ,Gaming,Open,113.4627514
+2,In-Situ,Learning,Open,226.3652169
+2,In-Situ,ProblemSolving,Open,245.2276162
+3,In-Situ,Gaming,Semi-Open,177.9719898
+3,In-Situ,Learning,Semi-Open,373.7032175
+3,In-Situ,ProblemSolving,Semi-Open,86.9541461
+4,In-Situ,Gaming,Semi-Open,98.27357055
+4,In-Situ,Learning,Semi-Open,69.07738472
+4,In-Situ,ProblemSolving,Semi-Open,243.1290254
+5,In-Situ,Gaming,Closed,104.6699173
+5,In-Situ,Learning,Closed,151.4925443
+5,In-Situ,ProblemSolving,Closed,135.7055788
+6,In-Situ,Gaming,Closed,100.7621726
+6,In-Situ,Learning,Closed,93.502398
+6,In-Situ,ProblemSolving,Closed,3.293158779
+7,In-Situ,Gaming,Open,19.37654809
+7,In-Situ,Learning,Open,68.85419837
+7,In-Situ,ProblemSolving,Open,163.8109372
+8,In-Situ,Gaming,Open,91.99104018
+8,In-Situ,Learning,Open,149.4735307
+8,In-Situ,ProblemSolving,Open,78.92505388
+9,In-Situ,Gaming,Open,40.77395156
+9,In-Situ,Learning,Open,94.63430098
+9,In-Situ,ProblemSolving,Open,76.57537614
+10,In-Situ,Gaming,Semi-Open,23.65977744
+10,In-Situ,Learning,Semi-Open,46.92356479
+10,In-Situ,ProblemSolving,Semi-Open,9.557381794
+11,In-Situ,Gaming,Closed,109.8304967
+11,In-Situ,Learning,Closed,0.926009965
+11,In-Situ,ProblemSolving,Closed,11.36762831
+12,In-Situ,Gaming,Semi-Open,161.0816956
+12,In-Situ,Learning,Semi-Open,32.46247452
+12,In-Situ,ProblemSolving,Semi-Open,31.86559299
+13,In-Situ,Gaming,Closed,45.47605671
+13,In-Situ,Learning,Closed,322.2071233
+13,In-Situ,ProblemSolving,Closed,96.0876882
+14,In-Situ,Gaming,Open,147.7231197
+14,In-Situ,Learning,Open,100.9988492
+14,In-Situ,ProblemSolving,Open,109.5622755
+15,In-Situ,Gaming,Semi-Open,43.72943819
+15,In-Situ,Learning,Semi-Open,193.3111367
+15,In-Situ,ProblemSolving,Semi-Open,174.8634757
+16,In-Situ,Gaming,Closed,96.51726501
+16,In-Situ,Learning,Closed,109.7625002
+16,In-Situ,ProblemSolving,Closed,358.3834638
+17,In-Situ,Gaming,Open,134.5303985
+17,In-Situ,Learning,Open,13.49786585
+17,In-Situ,ProblemSolving,Open,68.78712985
+18,In-Situ,Gaming,Closed,67.84627101
+18,In-Situ,Learning,Closed,88.83097283
+18,In-Situ,ProblemSolving,Closed,34.11870905
+19,In-Situ,Gaming,Semi-Open,41.783097
+19,In-Situ,Learning,Semi-Open,176.1069494
+19,In-Situ,ProblemSolving,Semi-Open,335.4008653
+20,In-Situ,Gaming,Closed,78.91317431
+20,In-Situ,Learning,Closed,82.68892106
+20,In-Situ,ProblemSolving,Closed,85.57033043
+21,In-Situ,Gaming,Open,129.0829903
+21,In-Situ,Learning,Open,80.34742082
+21,In-Situ,ProblemSolving,Open,23.73529187
+22,In-Situ,Gaming,Semi-Open,74.93913681
+22,In-Situ,Learning,Semi-Open,23.36280991
+22,In-Situ,ProblemSolving,Semi-Open,56.62634902
+23,In-Situ,Gaming,Semi-Open,89.39588691
+23,In-Situ,Learning,Semi-Open,34.30385605
+23,In-Situ,ProblemSolving,Semi-Open,28.18054868
+24,In-Situ,Gaming,Open,40.33211189
+24,In-Situ,Learning,Open,163.6091138
+24,In-Situ,ProblemSolving,Open,166.0843714
+1,On-Body,Gaming,Closed,135.1241211
+1,On-Body,Learning,Closed,67.80475524
+1,On-Body,ProblemSolving,Closed,71.61315969
+2,On-Body,Gaming,Open,35.07715561
+2,On-Body,Learning,Open,2.940378787
+2,On-Body,ProblemSolving,Open,3.289245716
+3,On-Body,Gaming,Semi-Open,67.93847717
+3,On-Body,Learning,Semi-Open,77.35597783
+3,On-Body,ProblemSolving,Semi-Open,59.40256941
+4,On-Body,Gaming,Semi-Open,92.86451574
+4,On-Body,Learning,Semi-Open,21.66299627
+4,On-Body,ProblemSolving,Semi-Open,58.10116065
+5,On-Body,Gaming,Closed,107.2452886
+5,On-Body,Learning,Closed,85.41886551
+5,On-Body,ProblemSolving,Closed,3.919846803
+6,On-Body,Gaming,Closed,134.8208713
+6,On-Body,Learning,Closed,70.17204007
+6,On-Body,ProblemSolving,Closed,28.95400672
+7,On-Body,Gaming,Open,95.81487364
+7,On-Body,Learning,Open,15.98569153
+7,On-Body,ProblemSolving,Open,34.07645407
+8,On-Body,Gaming,Open,76.28876058
+8,On-Body,Learning,Open,10.95858407
+8,On-Body,ProblemSolving,Open,3.741797298
+9,On-Body,Gaming,Open,47.43626241
+9,On-Body,Learning,Open,58.02912331
+9,On-Body,ProblemSolving,Open,66.19068526
+10,On-Body,Gaming,Semi-Open,63.54209898
+10,On-Body,Learning,Semi-Open,29.32374819
+10,On-Body,ProblemSolving,Semi-Open,13.66897845
+11,On-Body,Gaming,Closed,112.3033348
+11,On-Body,Learning,Closed,27.52470873
+11,On-Body,ProblemSolving,Closed,4.853175563
+12,On-Body,Gaming,Semi-Open,122.3128434
+12,On-Body,Learning,Semi-Open,128.5447596
+12,On-Body,ProblemSolving,Semi-Open,127.7081484
+13,On-Body,Gaming,Closed,28.03644957
+13,On-Body,Learning,Closed,20.18836217
+13,On-Body,ProblemSolving,Closed,9.577607759
+14,On-Body,Gaming,Open,38.41370895
+14,On-Body,Learning,Open,1.239040604
+14,On-Body,ProblemSolving,Open,30.78904743
+15,On-Body,Gaming,Semi-Open,89.55480847
+15,On-Body,Learning,Semi-Open,36.45522229
+15,On-Body,ProblemSolving,Semi-Open,24.27207728
+16,On-Body,Gaming,Closed,28.07756542
+16,On-Body,Learning,Closed,1.817322574
+16,On-Body,ProblemSolving,Closed,97.04896606
+17,On-Body,Gaming,Open,93.18002066
+17,On-Body,Learning,Open,7.341762189
+17,On-Body,ProblemSolving,Open,66.58770515
+18,On-Body,Gaming,Closed,46.36689627
+18,On-Body,Learning,Closed,77.21251863
+18,On-Body,ProblemSolving,Closed,29.61686014
+19,On-Body,Gaming,Semi-Open,35.09715086
+19,On-Body,Learning,Semi-Open,43.38405572
+19,On-Body,ProblemSolving,Semi-Open,6.107317299
+20,On-Body,Gaming,Closed,55.59344472
+20,On-Body,Learning,Closed,8.429832284
+20,On-Body,ProblemSolving,Closed,5.637742137
+21,On-Body,Gaming,Open,83.46276908
+21,On-Body,Learning,Open,80.59965321
+21,On-Body,ProblemSolving,Open,30.02077747
+22,On-Body,Gaming,Semi-Open,34.46082484
+22,On-Body,Learning,Semi-Open,18.11144804
+22,On-Body,ProblemSolving,Semi-Open,40.319122
+23,On-Body,Gaming,Semi-Open,104.2714719
+23,On-Body,Learning,Semi-Open,25.66095669
+23,On-Body,ProblemSolving,Semi-Open,70.34001878
+24,On-Body,Gaming,Open,145.5881027
+24,On-Body,Learning,Open,1.704209059
+24,On-Body,ProblemSolving,Open,9.683550423
