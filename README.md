@@ -5,3 +5,5 @@
 ## <a href="https://github.com/ollop/gevakub/blob/main/Fostering%20Virtual%20Guide%20in%20Exhibitions">Fostering Virtual Guide in Exhibitions</a>
 
 ## <a href="https://github.com/ollop/gevakub/blob/main/It’s%20Not%20Always%20Better%20When%20We’re%20Together">It’s Not Always Better When We’re Together: Effects of Being Accompanied in Virtual Reality</a>
+
+## <a href="https://github.com/ollop/gevakub/blob/main/Notifications%20in%20VR">Notification in VR: The Effect of Notification Placement, Task, and Environment</a>
