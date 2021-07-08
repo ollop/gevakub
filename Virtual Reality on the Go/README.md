@@ -3,4 +3,4 @@ Virtual reality (VR) glasses enable to be present in an environment while the ow
 
 <img src="https://github.com/ollop/gevakub/blob/main/Virtual%20Reality%20on%20the%20Go/teaser.PNG" height="300px">
 
-The file survey-data.xlsx contains the data collectted through the survey. See more details in the paper.
+The file <a href="https://github.com/ollop/gevakub/blob/main/Virtual%20Reality%20on%20the%20Go/survey-data.xlsx">survey-data.xlsx</a> contains the data collectted through the survey. See more details in the <a href="Virtual-Reality-on-the-Go-A-Study-on-Social-Acceptance-of-VR-Glasses.pdf">paper</a>.
