@@ -3,4 +3,4 @@ Virtual reality (VR) is commonly used for entertainment applications but is also
 
 <img src="teaser.PNG" width="1000">
 
-The respository subjective and objective data collected within the study. See more details in the <a href="Notification-in-VR.pdf">paper</a>.
+The respository contains the subjective and objective data collected within the study. See more details in the <a href="Notification-in-VR.pdf">paper</a>.
