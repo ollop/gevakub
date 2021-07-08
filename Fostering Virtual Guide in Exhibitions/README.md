@@ -3,4 +3,4 @@ Museums are essential to make culture accessible to the mass audience. Human mus
 
 <img src="https://github.com/ollop/gevakub/blob/main/Fostering%20Virtual%20Guide%20in%20Exhibitions/teaser.PNG" width="1000">
 
-The file <a href="https://github.com/ollop/gevakub/blob/main/Fostering%20Virtual%20Guide%20in%20Exhibitions/Questionnaire-Data.xlsx">Questionnaire-Data.xlsx</a> contains the data collectted through the survey. See more details in the <a href="Virtual-Reality-on-the-Go-A-Study-on-Social-Acceptance-of-VR-Glasses.pdf">paper</a>.
+The file <a href="https://github.com/ollop/gevakub/blob/main/Fostering%20Virtual%20Guide%20in%20Exhibitions/Questionnaire-Data.xlsx">Questionnaire-Data.xlsx</a> contains the data collectted through the survey. See more details in the <a href="Fostering-Virtual-Guide-in-Exhibitions.pdf">paper</a>.
