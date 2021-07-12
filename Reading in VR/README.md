@@ -3,4 +3,4 @@ Reading is a fundamental activity to obtain information both in the real and the
 
 <img src="teaser.PNG" width="1000">
 
-The file <a href="ReadingInVRData.csv"ReadingInVRData.csv</a> contains the subjective and objective data collected within the study. See more details in the <a href="reading-in-vr-the-effect-of-text-presentation-type-and-location.pdf">paper</a>.
+The file <a href="ReadingInVRData.csv">ReadingInVRData.csv</a> contains the subjective and objective data collected within the study. See more details in the <a href="reading-in-vr-the-effect-of-text-presentation-type-and-location.pdf">paper</a>.
