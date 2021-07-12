@@ -4,3 +4,5 @@ Social Virtual Reality (VR) offers new opportunities for designing social experi
 <img src="teaser.PNG" width="1000">
 
 This repository contains the subjective data collected within the study described in the paper as well as the according analysis. See more details in the <a href="PaperGo-Through.pdf">paper</a>.
+
+<i>Reinhardt, J., & Wolf, K. (2020, March). Go-Through: Disabling Collision to Access Obstructed Paths and Open Occluded Views in Social VR. In Proceedings of the Augmented Humans International Conference (pp. 1-10).</i>
