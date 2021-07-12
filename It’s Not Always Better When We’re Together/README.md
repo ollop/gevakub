@@ -4,3 +4,5 @@ Virtual reality (VR) enables immersive applications that make rich content avail
 <img src="teaser.PNG" width="1000">
 
 The file <a href="Questionnaire-Data.xlsx">Questionnaire-Data.xlsx</a> contains the data collected through questionnaires. The file <a href="average distance between pairs.csv">average distance between pairs.csv</a> contains the average distance between pairs of participants. See more details in the <a href="Its-Not-Always-Better-When-Were-Together.pdf">paper</a>.
+
+<i>Rzayev, R., Habler, F., Ugnivenko, P., Henze, N., & Schwind, V. (2020, April). It's Not Always Better When We're Together: Effects of Being Accompanied in Virtual Reality. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-8).</i>
