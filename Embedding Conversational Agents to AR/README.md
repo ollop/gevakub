@@ -4,3 +4,5 @@ Currently, (invisible) smart speech assistants, such as Siri, Alexa, and Cortana
 <img src="teaser.PNG" width="1000">
 
 This repository contains the subjective data and the analysis for the conducted study. See more details in the <a href="Paper_Embedding Conversational Agents into AR.pdf">paper</a>.
+
+<i>Reinhardt, J., Hillen, L., & Wolf, K. (2020, February). Embedding Conversational Agents into AR: Invisible or with a Realistic Human Body?. In Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction (pp. 299-310).</i>
