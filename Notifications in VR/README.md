@@ -4,3 +4,5 @@ Virtual reality (VR) is commonly used for entertainment applications but is also
 <img src="teaser.PNG" width="1000">
 
 The respository contains the subjective and objective data collected within the study. See more details in the <a href="Notification-in-VR.pdf">paper</a>.
+
+<i>Rzayev, R., Mayer, S., Krauter, C., & Henze, N. (2019, October). Notification in vr: The effect of notification placement, task and environment. In Proceedings of the Annual Symposium on Computer-Human Interaction in Play (pp. 199-211).</i>
