@@ -4,3 +4,5 @@ During physical games, we love to socially interact with other players through b
 <img src="teaser.PNG" width="1000">
 
 This repository contains the data collected within the study described in the paper as well as the according analysis. See more details in the <a href="Paper_PLAY_ME__Influencing_Game_Decisions_through_Suggestions_made_by_Game_Card_Characters.pdf">paper</a>.
+
+<i>Kurzweg, M., Reinhardt, J., Stoll, M., Wirth, J., & Wolf, K. (2020, November). PLAY ME! Influencing Game Decisions through Suggestions made by Augmented Characters. In 19th International Conference on Mobile and Ubiquitous Multimedia (pp. 288-298).</i>
