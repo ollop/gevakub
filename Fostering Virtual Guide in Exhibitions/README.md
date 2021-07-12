@@ -4,3 +4,5 @@ Museums are essential to make culture accessible to the mass audience. Human mus
 <img src="https://github.com/ollop/gevakub/blob/main/Fostering%20Virtual%20Guide%20in%20Exhibitions/teaser.PNG" width="1000">
 
 The file <a href="https://github.com/ollop/gevakub/blob/main/Fostering%20Virtual%20Guide%20in%20Exhibitions/Questionnaire-Data.xlsx">Questionnaire-Data.xlsx</a> contains the data collectted through the survey. See more details in the <a href="Fostering-Virtual-Guide-in-Exhibitions.pdf">paper</a>.
+
+<i>Rzayev, R., Karaman, G., Henze, N., & Schwind, V. (2019, October). Fostering virtual guide in exhibitions. In Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services (pp. 1-6).</i>
