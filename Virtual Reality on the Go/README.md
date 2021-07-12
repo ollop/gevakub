@@ -4,3 +4,5 @@ Virtual reality (VR) glasses enable to be present in an environment while the ow
 <img src="teaser.PNG" height="300px">
 
 The file <a href="survey-data.xlsx">survey-data.xlsx</a> contains the data collectted through the survey. See more details in the <a href="Virtual-Reality-on-the-Go-A-Study-on-Social-Acceptance-of-VR-Glasses.pdf">paper</a>.
+
+<i>Schwind, V., Reinhardt, J., Rzayev, R., Henze, N., & Wolf, K. (2018, September). Virtual reality on the go? a study on social acceptance of VR glasses. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct (pp. 111-118).</i>
