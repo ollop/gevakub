@@ -4,3 +4,5 @@ Due to the constantly growing number of users, social virtual reality (VR) can b
 <img src="teaser.PNG" width="1000">
 
 This repository contains the subjective data collected within the study described in the paper as well as the according analysis. See more details in the <a href="Paper_SocialSlider.pdf">paper</a>.
+
+<i>Reinhardt, J., & Wolf, I. K. (2018). Opportunities of Social VR in Digital Museum Twins. EVA BERLIN 2018, 320.</i>
