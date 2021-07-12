@@ -1,0 +1,3 @@
+take start: 1579773277151
+UserId;Timestamp;Condition;Task;T1Start;T1End;T2Start;T2End;FillValue;PressureValue
+28;1579773277153;Shared_View;Drehen;1579773243586;1579773277148;1579773247583;1579773273485;-1;0.4992256

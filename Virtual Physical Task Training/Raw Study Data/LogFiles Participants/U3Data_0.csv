@@ -1,0 +1,3 @@
+take start: 1579079728416
+UserId;Timestamp;Condition;Task;T1Start;T1End;T2Start;T2End;FillValue;PressureValue
+3;1579079728417;Verbal;Brush;1579079663207;1579079728412;1579079712910;1579079723579;-1;-1

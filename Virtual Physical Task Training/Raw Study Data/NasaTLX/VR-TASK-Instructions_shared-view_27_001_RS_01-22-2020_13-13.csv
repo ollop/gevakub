@@ -1,0 +1,16 @@
+---NASA TLX V1.0.2 SINGLE TRIAL RATING SCALE ANSWERS---
+STUDY NAME:,VR-TASK-Instructions
+STUDY GROUP:,shared-view
+SUBJECT ID:,27
+TRIAL:,1
+TRIAL DATE TIME:,01-22-2020 13:13
+---DATA---
+PAIRWISE ASKED WITH TRIAL:,true
+PAIRWISE ANSWERS TO USE:,VR-TASK-Instructions_shared-view_27_001_PW_01-22-2020_13-13.csv
+RATING SCALE:,RAW RATING
+Mental Demand,15
+Physical Demand,45
+Temporal Demand,30
+Performance,30
+Effort,25
+Frustration,25
